@@ -1,0 +1,171 @@
+/* header styles */
+*{
+    font-family: 'Work Sans', sans-serif;
+    margin: 0;
+}
+header{
+    height: 809px;
+    width: 1600px;
+    background-color:rgb(199, 201, 200);
+    background-image: url(images/banner/banner3.png);
+  
+}
+.header-content{
+    margin: 0;
+  position: absolute;
+  text-align: right;
+  
+  width: 500px;
+  height: px;
+  padding-left:800px ;
+  padding-top: 130px;
+  padding-bottom: 300px;
+}
+h1{
+    font-size: 65px;
+    color: rgb(255, 255, 255);
+    line-height: 76px;
+}
+p{
+    font-size: 16px;
+    margin-bottom: 35px;
+    color: aliceblue;
+    margin: 30px 0;
+    line-height: 30px;
+
+}
+button{
+    font-size: 20px;
+    padding: 20px 30px;
+    color: rgb(0, 145, 255);
+    background-color: rgb(255, 255, 255);
+    border: 0;
+    border-radius: 5px;
+    font-weight: 900px;
+}
+i{
+    color: red;
+    size: 35px;
+}
+img{
+    height: 700px;
+    width: 550px;
+}
+
+.first-section{
+    display:flex; 
+    gap: 100px;
+    align-items:center;
+    margin: 80px 0;
+}
+main{
+    max-width: 1144px;
+    margin: 0 auto;
+}
+h3{
+    font-size: 40px;
+    font-weight: 700px;
+    padding-top: 50px;
+}
+
+/* Skill section styles */
+.section-description{
+    font-size: 16px;
+    line-height: 25px;
+    width: 400px;
+    color:black ;
+}
+.skill-description{
+    color: black;
+}
+.section-2 img{
+    width: 100px;
+    height: 100px;
+}
+.skill-container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 80px;
+}
+.section-title{
+    margin-bottom:80px ;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700px;
+}
+.skill-description{
+    font-size: 22px;
+}
+.skill-title{
+    font-size: 30px;
+}
+.section-3{
+    height: 300px;
+    width: 1162px;
+    background-image:url(images/gradient1.png), url(images/watch.png) ;
+    background-position:  center , center;
+    background-repeat: no-repeat;
+    
+   
+    
+}
+.pungta{
+    padding: 80px;
+}
+h2{
+    color: aliceblue;
+    font-size: 40px;
+    font-weight: 900px;
+    margin-bottom: 30px;
+}
+.main-section-3{
+    margin: 100px 0 200px 0;
+}
+
+/* footer styles */
+footer{
+    background: #151414;
+    padding: 150px 200px;
+}
+.footer-container{
+    display: flex;
+    gap: 300px;
+}
+.footer-container img{
+    width: 50px;
+    height: 50px;
+}
+.footer-paragraph{
+    width: 500px;
+}
+.submit-button{
+    font-size: 20px;
+    padding: 20px 30px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(3, 84, 170);
+    border: 0;
+    border-radius: 5px;
+    font-weight: 900px;
+}
+.input-email{
+    width: 100%;
+    padding: 18px;
+    font-size: 18px;
+    border: 2px solid rgb(255, 255, 255);
+    background: #151414;
+    border-radius: 10px;
+    color: aliceblue;
+    margin: 30px 0 15px 0;
+}
+.footer-h3{
+    color: #ffffff;
+   font-size: 22px;
+   font-weight: 700px;
+}
+a{
+    text-decoration: none;
+}
+.footer-heading{
+    font-size: 44px;
+}
