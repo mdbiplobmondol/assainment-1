@@ -7,7 +7,7 @@ header{
     height: 809px;
     width: 1600px;
     background-color:rgb(199, 201, 200);
-    background-image: url(images/banner/banner3.png);
+    background-image: url(/images/banner/banner1.png);
   
 }
 .header-content{
@@ -23,7 +23,7 @@ header{
 }
 h1{
     font-size: 65px;
-    color: rgb(255, 255, 255);
+    color: rgb(12, 11, 11);
     line-height: 76px;
 }
 p{
@@ -103,7 +103,7 @@ h3{
 .section-3{
     height: 300px;
     width: 1162px;
-    background-image:url(images/gradient1.png), url(images/watch.png) ;
+    background-image:url(/images/gradient1.png), url(images/watch.png) ;
     background-position:  center , center;
     background-repeat: no-repeat;
     
